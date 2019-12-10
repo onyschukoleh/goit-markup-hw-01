@@ -47,9 +47,43 @@ modified: history.md
 
 no changes added to commit (use "git add" and/or "git commit -a")
 
-Добавь изменения под контроль git и сделай коммит с комментарием Добавлена информация о животном.
-Выведи лог истории коммитов и просмотри его.
-В файле README.md, между заголовком и абзацем с описанием, добавь изображение животного. Найти картинку и взять на нее ссылку можно с сервиса картинок Pixabay.
+\$ git commit -m "Add information to README.md and hystore.md"
+[master d54201c] Add information to README.md and hystore.md
+2 files changed, 53 insertions(+), 7 deletions(-)
+rewrite README.md (100%)
+
+\$ git log
+commit d54201c26dfff13335f0c9d7b8a2ed761b86a3cb (HEAD -> master)
+Author: onyschukoleh <onyschukoleh@gmail.com>
+Date: Tue Dec 10 23:56:06 2019 +0200
+
+    Add information to README.md and hystore.md
+
+commit a5f5201450caf2085e8b3fa4c5114818bd5dfeb7
+Author: onyschukoleh <onyschukoleh@gmail.com>
+Date: Tue Dec 10 23:20:41 2019 +0200
+
+    Add README.md and history.md
+
+commit ee361cb73d12b08afe50b3f84d870000808cec9f (origin/master, origin/HEAD)
+Author: onyschukoleh <58668434+onyschukoleh@users.noreply.github.com>
+Date: Tue Dec 10 23:01:51 2019 +0200
+
+    Initial commit
+
+\$ git status
+On branch master
+Your branch is ahead of 'origin/master' by 2 commits.
+(use "git push" to publish your local commits)
+
+Changes not staged for commit:
+(use "git add <file>..." to update what will be committed)
+(use "git restore <file>..." to discard changes in working directory)
+modified: README.md
+modified: history.md
+
+no changes added to commit (use "git add" and/or "git commit -a")
+
 Проверь статус файлов проекта, посмотри какие файлы уже под контролем, а какие будут добавлены.
 Добавь изменения под контроль git и сделай коммит с комментарием Добавлено изображение животного.
 Выведи лог истории коммитов и просмотри его.

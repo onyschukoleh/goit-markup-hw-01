@@ -17,7 +17,7 @@ It has even been adopted by the specimen world in recent years. But, even though
 
 - The best hookbaits when using the Method feeder
 
-![Feedefishing](https://images.squarespace-cdn.com/content/v1/56cc4645c2ea518471e01802/1540378081470-75LQSJ61JD0PYAH0WECT/ke17ZwdGBToddI8pDm48kO7Rg1Gpu728H4UqxUIfecJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PICj5SdZHY9KUswDgTH3eH8sP5PrkY15Dr7CE2CPSRiTEKMshLAGzx4R3EDFOm1kBS/R1Q2807.jpg?format=1000w)
+![fishing](https://images.squarespace-cdn.com/content/v1/56cc4645c2ea518471e01802/1540378081470-75LQSJ61JD0PYAH0WECT/ke17ZwdGBToddI8pDm48kO7Rg1Gpu728H4UqxUIfecJZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PICj5SdZHY9KUswDgTH3eH8sP5PrkY15Dr7CE2CPSRiTEKMshLAGzx4R3EDFOm1kBS/R1Q2807.jpg?format=1000w)
 
 ### HYBRID FEEDERS
 
